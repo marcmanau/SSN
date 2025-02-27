@@ -1,16 +1,16 @@
 README referent al problema de "structures" del VMD (Visual Molecular Dynamics)
 
-Aquesta carpeta se n'ha pujat a l'acabar la classe. Comento ara les diferents estructures que veiem al problema, no he tingut temps de fer-ho abans.
+Aquesta carpeta se n'ha pujat en acabar la classe. Comento ara les diferents estructures que veiem al problema, no he tingut temps de fer-ho abans.
 
-En els fitxers referents a la proteina veiem l'estructura general de la proteina, a cada fitxer està marcada una cadena diferent amb els noms corresponents A,B i C.
-Les quals corresponen a les diferents cadenes de la proteina, les hem visualitzat en format "cartoon" per entendre millor l'estructura. 
+En els fitxers referents a la proteïna veiem l'estructura general de la proteïna, a cada fitxer està marcada una cadena diferent amb els noms corresponents A, B i C.
+Les quals corresponen a les diferents cadenes de la proteïna, les hem visualitzat en format "cartoon" per entendre millor l'estructura. 
 
-També podem veure diferents elements com ions metàlics, hem pogut localitzar dos ions de zinc i tres ions de magnesi que podem veure als fitxers marcats com element.
-En el fitxer elementP tenim marcats els àtoms de fósfor que segueixen l'estructura de doble hèlix del DNA es pot veure molt clarament la forma que segueixen si amb el VMD ho veiem com Van der Waals.
+També podem veure diferents elements com ions metàl·lics, hem pogut localitzar dos ions de zinc i tres ions de magnesi que podem veure als fitxers marcats com a element.
+En el fitxer elementP tenim marcats els àtoms de fòsfor que segueixen l'estructura de doble hèlix del DNA es pot veure molt clarament la forma que segueixen si amb el VMD ho veiem com Van der Waals.
 
-En el fitxer nucleic podem veure els diferents àcids nucleics que conformen el DNA el qual veiem com s'esta separant poc a poc. 
+En el fitxer nucleic podem veure els diferents àcids nucleics que conformen el DNA el qual veiem com s'està separant a poc a poc. 
 
-També podem visualitzar les molècules d'aigua en el fitxer all water, com podem veure en total són cinc molècules i podem veure sobretot el àtom d'oxígen si representem com Van der Waals.
+També podem visualitzar les molècules d'aigua en el fitxer all water, com podem veure en total són cinc molècules i podem veure sobretot l'àtom d'oxigen si representem com Van der Waals.
 
-Per últim en el fitxer all podem veure tota l'estructura amb tots els àtoms de la molècula, en canvi, en el fitxer all not protein podem vuere tota l'estructura que no correspon a la proteina. 
-En tots aquests arxius podem vuere en format de text totes les coordenades i els tipus d'àtoms de la selecció esmentada anteriorment. 
+Per últim, en el fitxer all podem veure tota l'estructura amb tots els àtoms de la molècula, en canvi, en el fitxer all not protein podem veure tota l'estructura que no correspon a la proteïna.  
+En tots aquests arxius podem observar en format de text totes les coordenades i els tipus d'àtoms de les seleccions d'estructures esmentades anteriorment. 
