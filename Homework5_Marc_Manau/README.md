@@ -1,8 +1,4 @@
-# Example Input 
+# Homework 5
 
-Example Input files for simulating the reaction: 
-- pseudopotentials
-- fdf siesta script
--  .XV file with input positons and velocities
-
-(the .old file is an older version and it can be disregarded)
+ Entrega Pràctica Dinàmica Molecular amb SIESTA.
+ He reduït la velocitat inicial a la meitat. En una altra carpeta del repertori SSN del github estan els inputs que he utilitzat.
